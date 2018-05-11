@@ -2,8 +2,7 @@ FTP protocol implementation
 
 advanced network 
 
-Loay Naser, 204436042
-Ahmad Igbarea, 305051492
+Author: Loay Naser
 
 the project about a client server that work on FTP protocol that we implemented.
 
